@@ -12,7 +12,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Eggs Benny](writer/eggs-benny.md)
 
-[Aspargus with Cranberries and Pine Nuts] (recipe/feb/aspargus-with-cranberries-and-pine-nuts.md)
+
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Aspargus with Cranberries and Pine Nuts] (recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
+
 
 ### [Madame Croque](writer/madame-croque.md) 
 
