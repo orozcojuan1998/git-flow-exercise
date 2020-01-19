@@ -4,4 +4,5 @@
 
 Recipe Picks:
 
+- Feb: [(Pink Senoritas)(../recipe/feb/pink-senoritas.md)
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
