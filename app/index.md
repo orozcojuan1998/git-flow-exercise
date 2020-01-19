@@ -6,6 +6,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ## Picks of the Month
 
+
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
